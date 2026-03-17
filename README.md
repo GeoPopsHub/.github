@@ -15,3 +15,12 @@ Resulting files include a list of agents with attributes (e.g., age, gender, rac
 
 GeoPops is in development and we welcome feedback! Get in touch if you've tried making a population of your own. We'll include it in the repository of pre-built populations.
 
+## Support
+GeoPops is a collaboration between the following institutions:
+* [ACCIDDA](https://accidda.org/)
+* [Insight Net](https://insightnet.us/)
+* [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/)
+* [One Health Trust](https://onehealthtrust.org/)
+* [Institute for Disease Modeling](https://www.idmod.org/)
+* [Johns Hopkins University Applied Physics laboratory](https://www.jhuapl.edu/)
+* [University of Virginia](https://www.virginia.edu/)
