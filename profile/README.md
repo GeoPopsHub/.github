@@ -1,0 +1,26 @@
+# GeoPopsHub
+Welcome! **GeoPopsHub** is a central location for GeoPops source code and example use cases. 
+
+**GeoPops** is a package for generating geographically and demographically realistic synthetic populations for any US Census location using publically available data. Population generation includes three steps:
+1. Generate individuals and households using combinatorial optimization (CO)
+2. Assign individuals to school and workplace locations using enrollment data and commute flows
+3. Connect individuals within locations using graph algorithms
+
+Resulting files include a list of agents with attributes (e.g., age, gender, race/ethnicity) and networks detailing their connections within home, school, workplace, and group quarters (e.g., correctional facilities, nursing homes) locations. GeoPops is meant to produce reasonable approximations of state and county population characteristics with granularity down to the Census Block Group (CBG).   GeoPops builds on a previous package, [GREASYPOP-CO](https://github.com/CDDEP-DC/GREASYPOP-CO/tree/main) (One Health Trust), and incorporates the following changes:
+- All code wrapped in convenient Python package that can be pip installed
+- Compatibility with Census data beyond 2019 (in development)
+- Automated data downloading
+- Users can adjust all config parameters from the front-end
+- Class for exporting files compatible with the agent-based modeling software [Starsim](https://starsim.org/) (Institute for Disease Modeling)
+
+GeoPops is in development and we welcome feedback! Get in touch if you've tried making a population of your own. We'll include it in the repository of pre-built populations.
+
+## Support
+GeoPops is a collaboration between the following institutions:
+* [ACCIDDA](https://accidda.org/)
+* [Insight Net](https://insightnet.us/)
+* [Johns Hopkins University Center for Systems Science and Engineering](https://systems.jhu.edu/)
+* [One Health Trust](https://onehealthtrust.org/)
+* [Institute for Disease Modeling](https://www.idmod.org/)
+* [Johns Hopkins University Applied Physics laboratory](https://www.jhuapl.edu/)
+* [University of Virginia](https://www.virginia.edu/)
