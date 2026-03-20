@@ -13,7 +13,7 @@ Resulting files include a list of agents with attributes (e.g., age, gender, rac
 - Users can adjust all config parameters from the front-end
 - Class for exporting files compatible with the agent-based modeling software [Starsim](https://starsim.org/) (Institute for Disease Modeling)
 
-GeoPops is in development and we welcome feedback! Get in touch if you've tried making a population of your own. We'll include it in the repository of pre-built populations.
+GeoPops is in development and we welcome feedback! Get in touch if you've tried making a population of your own or want to become a member. You can upload your own repositories and use cases.
 
 ## Support
 GeoPops is a collaboration between the following institutions:
