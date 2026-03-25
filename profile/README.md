@@ -1,7 +1,7 @@
 # GeoPopsHub
 Welcome! **GeoPopsHub** is a central location for GeoPops source code and examples. 
 
-**GeoPops** is a package for generating geographically and demographically realistic synthetic populations for any US Census location using publically available data. Population generation includes three steps:
+**GeoPops** is a python package for generating geographically and demographically realistic synthetic populations for any US Census location using publically available data. Population generation includes three steps:
 1. Generate individuals and households using combinatorial optimization (CO)
 2. Assign individuals to school and workplace locations using enrollment data and commute flows
 3. Connect individuals within locations using graph algorithms
