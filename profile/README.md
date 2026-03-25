@@ -6,7 +6,7 @@ Welcome! **GeoPopsHub** is a central location for GeoPops source code and exampl
 2. Assign individuals to school and workplace locations using enrollment data and commute flows
 3. Connect individuals within locations using graph algorithms
 
-Resulting files include a list of agents with attributes (e.g., age, gender, race/ethnicity) and networks detailing their connections within home, school, workplace, and group quarters (e.g., correctional facilities, nursing homes) locations. GeoPops is meant to produce reasonable approximations of state and county population characteristics with granularity down to the Census Block Group (CBG).   GeoPops builds on a previous package, [GREASYPOP-CO](https://github.com/CDDEP-DC/GREASYPOP-CO/tree/main) (One Health Trust), and incorporates the following changes:
+Resulting files include a list of agents with attributes (e.g., age, gender, race/ethnicity) and networks detailing their connections within home, school, workplace, and group quarters (e.g., correctional facilities, nursing homes) locations. GeoPops is meant to produce reasonable approximations of state and county population characteristics with granularity down to the Census Block Group (CBG).   GeoPops builds on a previous repository, [GREASYPOP-CO](https://github.com/CDDEP-DC/GREASYPOP-CO/tree/main) (One Health Trust), and incorporates the following changes:
 - All code wrapped in convenient Python package that can be pip installed
 - Compatibility with Census data beyond 2019
 - Automated data downloading
